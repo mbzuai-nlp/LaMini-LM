@@ -63,8 +63,8 @@ You can download LaMini model series as follow. Note that not all models are per
   <tr>
     <td>GPT-2</td>
     <td><a href="https://huggingface.co/MBZUAI/lamini-gpt-124m" target="_blank" rel="noopener noreferrer">LaMini-GPT-124M</a></td>
-    <td>LaMini-GPT-774M</td>
-    <td>LaMini-GPT-1.5B</td>
+    <td><a href="https://huggingface.co/MBZUAI/lamini-gpt-774m" target="_blank" rel="noopener noreferrer">LaMini-GPT-774M</a></td>
+    <td><a href="https://huggingface.co/MBZUAI/lamini-gpt-1.5b" target="_blank" rel="noopener noreferrer">LaMini-GPT-1.5B</a></td>
     <td></td>
   </tr>
   <tr>
