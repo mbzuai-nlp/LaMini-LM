@@ -90,7 +90,7 @@ You can download LaMini model series as follow. Note that not all models are per
 ## Using Models
 We recommend to use model to reponse to human instructions wrote in natural language. 
 
-We now show you how to load and use our model using HuggingFace `pipline()`. 
+We now show you how to load and use our model using HuggingFace `pipeline()`. 
 ### Encoder-Decoder Models 
 ```python
 # pip install -q transformers
