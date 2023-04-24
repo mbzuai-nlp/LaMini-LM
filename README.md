@@ -41,24 +41,24 @@ You can download LaMini model series as follow. Note that not all models are per
 <tbody>
   <tr>
     <td>T5</td>
-    <td>LaMini-T5-61M</td>
-    <td>LaMini-T5-223M</td>
-    <td>LaMini-T5-738M</td>
+    <td><a href="https://huggingface.co/MBZUAI/lamini-t5-61m" target="_blank" rel="noopener noreferrer">LaMini-T5-61M</a></td>
+    <td><a href="https://huggingface.co/MBZUAI/lamini-t5-223m" target="_blank" rel="noopener noreferrer">LaMini-T5-223M</a></td>
+    <td><a href="https://huggingface.co/MBZUAI/lamini-t5-738m" target="_blank" rel="noopener noreferrer">LaMini-T5-738M</a></td>
     <td></td>
   </tr>
    <tr>
         <td>Flan-T5</td>
-        <td>LaMini-Flan-T5-77M</td>
-        <td>LaMini-Flan-T5-248M</td>
-        <td>LaMini-Flan-T5-783M</td>
+        <td><a href="https://huggingface.co/MBZUAI/lamini-flan-t5-77m" target="_blank" rel="noopener noreferrer">LaMini-Flan-T5-77M</a></td>
+        <td><a href="https://huggingface.co/MBZUAI/lamini-flan-t5-248m" target="_blank" rel="noopener noreferrer">LaMini-Flan-T5-248M</a></td>
+        <td><a href="https://huggingface.co/MBZUAI/lamini-flan-t5-783m" target="_blank" rel="noopener noreferrer">LaMini-Flan-T5-783M</a></td>
     <td></td>
   </tr>
     <tr>
     <td>Cerebras-GPT</td>
-    <td>LaMini-Cerebras-111M</td>
-    <td>LaMini-Cerebras-256M</td>
-    <td>LaMini-Cerebras-590M</td>
-    <td>LaMini-Cerebras-1.3B</td>
+    <td><a href="https://huggingface.co/MBZUAI/lamini-cerebras-111m" target="_blank" rel="noopener noreferrer">LaMini-Cerebras-111M</a></td>
+    <td><a href="https://huggingface.co/MBZUAI/lamini-cerebras-256m" target="_blank" rel="noopener noreferrer">LaMini-Cerebras-256M</a></td>
+    <td><a href="https://huggingface.co/MBZUAI/lamini-cerebras-590m" target="_blank" rel="noopener noreferrer">LaMini-Cerebras-590M</a></td>
+    <td><a href="https://huggingface.co/MBZUAI/lamini-cerebras-1.3b" target="_blank" rel="noopener noreferrer">LaMini-Cerebras-1.3B</a></td>
   </tr>
   <tr>
     <td>GPT-2</td>
@@ -69,8 +69,8 @@ You can download LaMini model series as follow. Note that not all models are per
   </tr>
   <tr>
     <td>GPT-Neo</td>
-    <td>LaMini-Neo-125M</td>
-    <td>LaMini-Neo-1.3B</td>
+    <td><a href="https://huggingface.co/MBZUAI/lamini-neo-125m" target="_blank" rel="noopener noreferrer">LaMini-Neo-125M</a></td>
+    <td><a href="https://huggingface.co/MBZUAI/lamini-neo-1.3b" target="_blank" rel="noopener noreferrer">LaMini-Neo-1.3B</a></td>
     <td></td>
     <td></td>
   </tr>
