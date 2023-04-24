@@ -3,7 +3,7 @@
     <a><img src="images/LaMnin.png" alt="Title" style="width: 100%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
 
-# LaMini: Distilling Knowledge from Large Language Models
+# LaMini: A Diverse Herd of Distilled Models from Large-Scale Instructions
 
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/LICENSE)
 [![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/DATA_LICENSE)
@@ -256,12 +256,11 @@ Human evaluation results of the selected models on our 114 user-oriented instruc
 ## Citation
 Please cite us if you use our data or models.
 ```bibtex
-@misc{,
-      title={LaMini: Distilling Knowledge from Large Language Models}, 
+@misc{lamini,
+      title={LaMini: A Diverse Herd of Distilled Models from Large-Scale Instructions}, 
       author={},
       year={2023},
-      eprint={},
-      archivePrefix={},
-      primaryClass={}
+      publisher = {GitHub},
+      journal = {GitHub repository},
 }
 ```
