@@ -1,6 +1,6 @@
 
 <p align="center" width="100%">
-    <a><img src="images/LaMini2.png" alt="Title" style="width: 100%; min-width: 300px; display: block; margin: auto;"></a>
+    <a><img src="images/LaMnin.png" alt="Title" style="width: 100%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
 
 # LaMini: Distilling Knowledge from Large Language Models
