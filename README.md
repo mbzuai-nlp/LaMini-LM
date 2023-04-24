@@ -116,7 +116,10 @@ checkpoint = "{model_name}"
 
 model = pipeline('text-generation', model=checkpoint, use_auth_token=True)
 
-input_prompt = 'Please let me know your thoughts on the given place and why you think it deserves to be visited: \n"Barcelona, Spain"'
+instruction = 'Please let me know your thoughts on the given place and why you think it deserves to be visited: \n"Barcelona, Spain"'
+
+input_prompt = f"Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\n{instruction}\n\n### Response:"
+
 generated_text = generator(input_prompt, max_length=512, do_sample=True, repetition_penalty=1.5)[0]['generated_text']
 
 print("Response": generated_text)
