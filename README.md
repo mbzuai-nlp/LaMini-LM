@@ -50,7 +50,7 @@ You can download LaMini model series as follow. Note that not all models are per
    <tr>
         <td>Flan-T5</td>
         <td>LaMini-Flan-T5-77M</td>
-        <td>LaMini-Flan-T5-223M</td>
+        <td>LaMini-Flan-T5-248M</td>
         <td>LaMini-Flan-T5-783M</td>
     <td></td>
   </tr>
