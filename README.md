@@ -4,7 +4,7 @@
 </p>
 
 # LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions
-<p align="center"> <a href="https://twitter.com/WuMinghao_nlp" target="_blank">Minghao Wu</a>, <a href="https://twitter.com/MacAbdul9" target="_blank">Abdul Waheed</a>, <a href="https://chiyuzhang94.github.io/" target="_blank">Chiyu Zhang</a>,  <a href="https://mageed.arts.ubc.ca/" target="_blank">Muhammad Abdul-Mageed</a>, <a href="https://afaji.github.io/" target="_blank">Alham Fikri Aji</a>,</p>
+<p align="center"> <a href="https://twitter.com/WuMinghao_nlp" target="_blank">Minghao Wu</a>, <a href="https://twitter.com/MacAbdul9" target="_blank">Abdul Waheed</a>, <a href="https://chiyuzhang94.github.io/" target="_blank">Chiyu Zhang</a>,  <a href="https://mageed.arts.ubc.ca/" target="_blank">Muhammad Abdul-Mageed</a>, <a href="https://afaji.github.io/" target="_blank">Alham Fikri Aji</a></p>
 
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)]()
 [![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg)]()
