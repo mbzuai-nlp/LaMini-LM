@@ -269,7 +269,7 @@ Human evaluation results of the selected models on our 114 user-oriented instruc
 
 
 <p align="center" width="100%">
-    <a><img src="images/human_eval.png" alt="human_eval" style="width: 80%; min-width: 300px; display: block; margin: auto;"></a>
+    <a><img src="images/human_eval_user.png" alt="human_eval" style="width: 80%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
 
 ### Qualitative Analysis
