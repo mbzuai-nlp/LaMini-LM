@@ -27,6 +27,21 @@ We distill the knowledge from large language models by performing sentence/offli
 
 We release our data [HERE](https://huggingface.co/datasets/MBZUAI/LaMini-instruction). 
 
+Two examples in our LaMini instruction data.
+```json
+{
+    "instruction": "What is the capital of Australia?\n\nIs Canberra the only city chosen to serve as a capital due to a compromise between Sydney and Melbourne?", 
+    "response": "The capital of Australia is Canberra. Yes, Canberra was chosen as the capital of Australia in 1908 due to a compromise between Sydney and Melbourne, as neither city wanted the other to become the capital."
+}
+```
+
+```json
+{
+    "instruction": "What is the difference between an adverb and an adjective?", 
+    "response": "An adjective describes a noun or pronoun, whereas an adverb describes a verb, adjective, or other adverbs."
+}
+```
+
 ## Models
 
 You can download LaMini model series as follow. Note that not all models are performing as well. Models with ✩ are those with the best overall performance given their size/architecture. More details can be seen in our paper. 
