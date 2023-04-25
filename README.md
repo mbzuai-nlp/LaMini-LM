@@ -284,7 +284,7 @@ Model responses to the instruction ``Write a short description about the given m
 Please cite us if you use our data or models.
 ```bibtex
 @misc{lamini-lm,
-      title={{LaMini-LM}: A Diverse Herd of Distilled Models from Large-Scale Instructions}, 
+      title={LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions}, 
       author={Minghao Wu and Abdul Waheed and Chiyu Zhang and Muhammad Abdul-Mageed and Alham Fikri Aji},
       year={2023},
       publisher = {GitHub},
