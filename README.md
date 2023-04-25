@@ -37,8 +37,8 @@ Two examples in our LaMini instruction data.
 
 ```json
 {
-    "instruction": "What is the difference between an adverb and an adjective?", 
-    "response": "An adjective describes a noun or pronoun, whereas an adverb describes a verb, adjective, or other adverbs."
+    "instruction": "Create a poem that has the word \"ocean\" in every other line.", 
+    "response": "The ocean's depth is a mystery,\nIts waves crashing with energy.\nSalt air fills the coastal scene,\nThe ocean's blue hues pure and clean.\n\nSeagulls cry out a melancholy song,\nThe ocean's rhythm steady and strong.\nSunsets paint the water gold,\nThe ocean's secrets forever untold."}
 }
 ```
 
