@@ -4,6 +4,7 @@
 </p>
 
 # LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions
+<p align="center"> <a href="" target="_blank">Minghao Wu</a>, <a href="" target="_blank">Abdul Waheed</a>, <a href="" target="_blank">Chiyu Zhang</a>  <a href="" target="_blank">Muhammad Abdul-Mageed</a>, <a href="" target="_blank">Alham Fikri Aji</a>,</p>
 
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)]()
 [![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg)]()
