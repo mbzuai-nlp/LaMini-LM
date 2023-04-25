@@ -3,12 +3,12 @@
     <a><img src="images/LaMnin.png" alt="Title" style="width: 100%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
 
-# LaMini: A Diverse Herd of Distilled Models from Large-Scale Instructions
+# LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions
 
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)]()
 [![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg)]()
 
-LaMini is a collection of small-sized, efficient language models distilled from ChatGPT and trained on a large-scale dataset of 2.58M instructions. We explore different model architectures, sizes, and checkpoints, and extensively evaluate their performance across various NLP benchmarks and through human evaluation.
+LaMini-LM is a collection of small-sized, efficient language models distilled from ChatGPT and trained on a large-scale dataset of 2.58M instructions. We explore different model architectures, sizes, and checkpoints, and extensively evaluate their performance across various NLP benchmarks and through human evaluation.
 
 <!-- TOC -->
 
@@ -27,7 +27,7 @@ We distill the knowledge from large language models by performing sentence/offli
 
 We release our data [HERE](https://huggingface.co/datasets/MBZUAI/LaMini-instruction). 
 
-Two examples in our LaMini instruction data.
+Two examples in our LaMini-instruction data.
 ```json
 {
     "instruction": "What is the capital of Australia?\n\nIs Canberra the only city chosen to serve as a capital due to a compromise between Sydney and Melbourne?", 
@@ -44,13 +44,13 @@ Two examples in our LaMini instruction data.
 
 ## Models
 
-You can download LaMini model series as follow. Note that not all models are performing as well. Models with ✩ are those with the best overall performance given their size/architecture. More details can be seen in our paper. 
+You can download LaMini-LM series as follow. Note that not all models are performing as well. Models with ✩ are those with the best overall performance given their size/architecture. More details can be seen in our paper. 
 
 <table>
 <thead>
   <tr>
     <th>Base model</th>
-    <th colspan="4">LaMini series (#parameters)</th>
+    <th colspan="4">LaMini-LM series (#parameters)</th>
   </tr>
 </thead>
 <tbody>
@@ -245,7 +245,7 @@ We use language model evaluation harness ([lm-evaluation-harness](https://github
 </table>
 </details>
     
-The performance comparison between encoder-decoder models and decoder-only models of LaMini family on the downstream NLP tasks. The horizontal dash lines indicate the average performance given by Alpaca-7B and LLaMa-7B.
+The performance comparison between encoder-decoder models and decoder-only models of LaMini-LM family on the downstream NLP tasks. The horizontal dash lines indicate the average performance given by Alpaca-7B and LLaMa-7B.
 <p align="center" width="100%">
     <a><img src="images/model_archs.png" alt="nlp_eval" style="width: 40%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
@@ -271,9 +271,9 @@ Human evaluation results of the selected models on our 114 user-oriented instruc
 ## Citation
 Please cite us if you use our data or models.
 ```bibtex
-@misc{lamini,
-      title={LaMini: A Diverse Herd of Distilled Models from Large-Scale Instructions}, 
-      author={},
+@misc{lamini-lm,
+      title={LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions}, 
+      author={Minghao Wu and Abdul Waheed and Chiyu Zhang and Muhammad Abdul-Mageed and Alham Fikri Aji},
       year={2023},
       publisher = {GitHub},
       journal = {GitHub repository},
