@@ -104,7 +104,7 @@ You can download LaMini-LM series as follow. Models with ✩ are those with the 
 </table>
 
 ## Using Models
-LaMini-LM models and instruction are intended for research use only. (CC BY NC 4.0)
+LaMini-LM series and instruction dataset are intended for research use only. (CC BY NC 4.0)
 
 We recommend to use model to reponse to human instructions wrote in natural language. 
 
