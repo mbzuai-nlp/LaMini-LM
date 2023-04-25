@@ -125,7 +125,7 @@ print("Response": generated_text)
 ```
 
 ### Decoder-Only Models 
-For decoder only models, we used a instruction wrapper to train the model. Hence, we should use the wrapper at inference time. 
+For decoder-only models, we used a instruction wrapper to train the model. Hence, we should use the wrapper at inference time. 
 ```python
 # pip install -q transformers
 from transformers import pipeline
