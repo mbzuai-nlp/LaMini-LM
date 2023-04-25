@@ -249,7 +249,7 @@ We use language model evaluation harness ([lm-evaluation-harness](https://github
     
 The performance comparison between encoder-decoder models and decoder-only models of LaMini-LM family on the downstream NLP tasks. The horizontal dash lines indicate the average performance given by Alpaca-7B and LLaMa-7B.
 <p align="center" width="100%">
-    <a><img src="images/model_archs.png" alt="nlp_eval" style="width: 40%; min-width: 300px; display: block; margin: auto;"></a>
+    <a><img src="images/model_archs.png" alt="nlp_eval" style="width: 50%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
 
 
