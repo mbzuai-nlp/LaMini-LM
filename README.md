@@ -269,13 +269,13 @@ Human evaluation results of the selected models on our 114 user-oriented instruc
 
 
 ### Qualitative Analysis
-Model responses to the instruction ``Include important study notes and key points that someone should know about the given subject: "history of the USA"``, where Alpaca-7B fails but LaMini language models manage to respond. The high-quality contents are highlighted in blue. The errors are highlighted in red.
+Model responses to the instruction ``Include important study notes and key points that someone should know about the given subject: "history of the USA"``, where Alpaca-7B fails but LaMini-LMs manage to respond. The high-quality contents are highlighted in blue. The errors are highlighted in red.
 
 <p align="center" width="100%">
     <a><img src="images/generate1.png" alt="generate1" style="width: 80%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
 
-
+Model responses to the instruction ``Write a short description about the given movie or series: "The Witcher (2019)"``, where LaMini-LMs fails but Alpaca-7B manages to respond. The high-quality contents are highlighted in blue. The errors are highlighted in red.
 <p align="center" width="100%">
     <a><img src="images/generate2.png" alt="generate2" style="width: 80%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
