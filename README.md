@@ -245,7 +245,7 @@ Human evaluation results of the selected models on our 114 user-oriented instruc
     <li><b>Rate-A</b>: Valid, acceptable and satisfying;</li>
     <li><b>Rate-B</b>: The response is acceptable but has minor errors that can be improved;</li>
     <li><b>Rate-C</b>: The response is relevant and responds to the instruction, but it has significant errors in the content;</li>
-    <li><b>Rate D</b>: Invalid and unacceptable response.</li>
+    <li><b>Rate-D</b>: Invalid and unacceptable response.</li>
   </ul>
 </div>
 
