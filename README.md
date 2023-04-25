@@ -267,6 +267,10 @@ Human evaluation results of the selected models on our 114 user-oriented instruc
   </ul>
 </div>
 
+<p align="center" width="100%">
+    <a><img src="images/human_eval.png" alt="human_eval" style="width: 80%; min-width: 300px; display: block; margin: auto;"></a>
+</p>
+human_eval.png
 
 ### Qualitative Analysis
 Model responses to the instruction ``Include important study notes and key points that someone should know about the given subject: "history of the USA"``, where Alpaca-7B fails but LaMini-LMs manage to respond. The high-quality contents are highlighted in blue. The errors are highlighted in red.
