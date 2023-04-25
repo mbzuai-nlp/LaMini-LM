@@ -103,6 +103,8 @@ You can download LaMini-LM series as follow. Note that not all models are perfor
 </table>
 
 ## Using Models
+LaMini-LM models and instruction are intended for research use only. (CC BY NC 4.0)
+
 We recommend to use model to reponse to human instructions wrote in natural language. 
 
 We now show you how to load and use our model using HuggingFace `pipeline()`. 
