@@ -45,7 +45,7 @@ Two examples in our LaMini-instruction data.
 
 ## Models
 
-You can download LaMini-LM series as follow. Models with ✩ are those with the best overall performance given their size/architecture, hence we recommend using them. More details can be seen in our paper. 
+You can download LaMini-LM series as follows. Models with ✩ are those with the best overall performance given their size/architecture, hence we recommend using them. More details can be seen in our paper. 
 
 <table>
 <thead>
