@@ -45,7 +45,7 @@ Two examples in our LaMini-instruction data.
 
 ## Models
 
-You can download LaMini-LM series as follow. Note that not all models are performing as well. Models with ✩ are those with the best overall performance given their size/architecture. More details can be seen in our paper. 
+You can download LaMini-LM series as follow. Models with ✩ are those with the best overall performance given their size/architecture, hence we recommend using them. More details can be seen in our paper. 
 
 <table>
 <thead>
@@ -146,7 +146,7 @@ print("Response", generated_text)
 ## Evaluation
 
 ### NLP Evaluation 
-We use language model evaluation harness ([lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)) to evaluate our instruction-tuned models. We select 15 diverse NLP tasks, including multiple-choice QA, sentence completion, and sentiment analysis, etc..
+We use language model evaluation harness ([lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)) to evaluate our instruction-tuned models. We select 15 diverse NLP tasks, including multiple-choice QA, sentence completion, and sentiment analysis, etc.
 
 <details>
 <summary> Details about evaluation datasets (Click to expand) </summary>
