@@ -1,5 +1,3 @@
- <link rel="shortcut icon" type="small_logo" href="images/small_logo.png">
-
 <p align="center" width="100%">
     <a><img src="images/small_logo.png" alt="Title" style="width: 50%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
