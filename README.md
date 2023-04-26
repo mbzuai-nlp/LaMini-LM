@@ -9,6 +9,9 @@
 [![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg)]()
 
 LaMini-LM is a collection of small-sized, efficient language models distilled from ChatGPT and trained on a large-scale dataset of 2.58M instructions. We explore different model architectures, sizes, and checkpoints, and extensively evaluate their performance across various NLP benchmarks and through human evaluation.
+<p align="center" width="100%">
+    <a><img src="images/lamini-pipeline.drawio.png" alt="Title" style="width: 90%; min-width: 300px; display: block; margin: auto;"></a>
+</p>
 
 <!-- TOC -->
 
