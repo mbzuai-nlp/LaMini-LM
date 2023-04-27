@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <a><img src="images/LaMini-LM-solo.png" alt="Title" style="width: 25%; min-width: 300px; display: block; margin: auto;"></a>
+    <a><img src="images/LaMini-LM-solo.png" alt="Title" style="width: 20%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
 
 # LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions
