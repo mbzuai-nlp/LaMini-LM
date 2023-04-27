@@ -7,7 +7,7 @@
 <p align="center" float="left">
   <img src="images/MBZUAI-logo.png" height="40" />
   <img src="images/ubc_logo.png" height="40" />
-  <img src="images/Monash_University_logo.svg" height="40" />
+  <img src="images/monash_logo.png" height="40" />
 </p>
 
 
