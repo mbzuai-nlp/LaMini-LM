@@ -5,8 +5,9 @@
 # LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions
 <p align="center"> <a href="https://twitter.com/WuMinghao_nlp" target="_blank">Minghao Wu</a>, <a href="https://twitter.com/MacAbdul9" target="_blank">Abdul Waheed</a>, <a href="https://chiyuzhang94.github.io/" target="_blank">Chiyu Zhang</a>,  <a href="https://mageed.arts.ubc.ca/" target="_blank">Muhammad Abdul-Mageed</a>, <a href="https://afaji.github.io/" target="_blank">Alham Fikri Aji</a></p>
 <p align="center" float="left">
-  <img src="https://slowdnn-workshop.github.io/assets/images/MBZUAI_FullName_Bilingual_Screen_RGB.jpg" width="200" />
-  <img src="https://brand3.sites.olt.ubc.ca/files/2018/09/5NarrowLogo_ex_768.png" width="200" /> 
+  <img src="images/MBZUAI-logo.png" height="40" />
+  <img src="images/ubc_logo.png" height="40" />
+  <img src="images/Monash_University_logo.svg" height="40" />
 </p>
 
 
