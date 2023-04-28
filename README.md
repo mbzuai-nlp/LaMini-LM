@@ -17,7 +17,7 @@
 
 LaMini-LM is a collection of small-sized, efficient language models distilled from ChatGPT and trained on a large-scale dataset of 2.58M instructions. We explore different model architectures, sizes, and checkpoints, and extensively evaluate their performance across various NLP benchmarks and through human evaluation. 
 
-<p align="center" width="100%"><a href="https://github.com/mbzuai-nlp/LaMini-LM/" target="github">GitHub Repo</a>, <a href="https://arxiv.org/abs/2304.14402" target="github">Paper</a></p>
+<p align="center" width="100%"><a href="https://github.com/mbzuai-nlp/LaMini-LM/" target="github">GitHub</a>, <a href="https://arxiv.org/abs/2304.14402" target="github">Paper</a></p>
 
 <p align="center" width="100%">
     <a><img src="images/lamini-pipeline.drawio.png" alt="Title" style="width: 90%; min-width: 300px; display: block; margin: auto;"></a>
