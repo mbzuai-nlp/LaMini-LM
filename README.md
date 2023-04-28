@@ -15,7 +15,8 @@
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)]()
 [![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg)]()
 
-LaMini-LM is a collection of small-sized, efficient language models distilled from ChatGPT and trained on a large-scale dataset of 2.58M instructions. We explore different model architectures, sizes, and checkpoints, and extensively evaluate their performance across various NLP benchmarks and through human evaluation.
+LaMini-LM is a collection of small-sized, efficient language models distilled from ChatGPT and trained on a large-scale dataset of 2.58M instructions. We explore different model architectures, sizes, and checkpoints, and extensively evaluate their performance across various NLP benchmarks and through human evaluation. 
+[GitHub Repository](https://github.com/mbzuai-nlp/LaMini-LM/), [Paper](https://arxiv.org/abs/2304.14402)
 <p align="center" width="100%">
     <a><img src="images/lamini-pipeline.drawio.png" alt="Title" style="width: 90%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
@@ -33,7 +34,7 @@ LaMini-LM is a collection of small-sized, efficient language models distilled fr
 
 ## Data
 
-We distill the knowledge from large language models by performing sentence/offline distillation (Kim and Rush, 2016). We generate a total of **2.58M** pairs of instructions and responses using [`gpt-3.5-turbo`](https://openai.com/api/) based on several existing resources of prompts, including [self-instruct](https://github.com/yizhongw/self-instruct) (Wang et al., 2022), [P3](https://huggingface.co/datasets/bigscience/P3) (Sanh et al., 2022), [Flan](https://github.com/google-research/FLAN) (Longpre et al., 2023) and [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) (Taori et al., 2023). More information about the process for generating our instruction dataset, please refer to our paper.
+We distill the knowledge from large language models by performing sentence/offline distillation (Kim and Rush, 2016). We generate a total of **2.58M** pairs of instructions and responses using [`gpt-3.5-turbo`](https://openai.com/api/) based on several existing resources of prompts, including [self-instruct](https://github.com/yizhongw/self-instruct) (Wang et al., 2022), [P3](https://huggingface.co/datasets/bigscience/P3) (Sanh et al., 2022), [Flan](https://github.com/google-research/FLAN) (Longpre et al., 2023) and [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) (Taori et al., 2023). More information about the process for generating our instruction dataset, please refer to [our paper](https://arxiv.org/abs/2304.14402).
 
 We release our data [HERE](https://huggingface.co/datasets/MBZUAI/LaMini-instruction). 
 
@@ -58,7 +59,7 @@ Two examples in our LaMini-instruction data:
 
 ## Models
 
-You can download LaMini-LM series as follows. Models with ✩ are those with the best overall performance given their size/architecture, hence we recommend using them. More details can be seen in our paper. 
+You can download LaMini-LM series as follows. Models with ✩ are those with the best overall performance given their size/architecture, hence we recommend using them. More details can be seen in [our paper](https://arxiv.org/abs/2304.14402). 
 
 <table>
 <thead>
