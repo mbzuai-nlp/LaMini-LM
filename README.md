@@ -273,7 +273,8 @@ The performance comparison between encoder-decoder models and decoder-only model
     <a><img src="images/model_archs.png" alt="nlp_eval" style="width: 50%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
 
-
+> **Warning**
+> We use lm-eval-harnesss to measure the performance. [You can replicate the result yourselves](https://github.com/EleutherAI/lm-evaluation-harness). Therefore, numbers for LLaMA are **not comparable** to original paper since we use different method of measurement. As for our LaMini-LM decoder-only models, we modify lm-eval-harness to [add prompt wrapper for each instruction](https://github.com/afaji/lm-evaluation-harness).
 
 ### Human Evaluation
 
