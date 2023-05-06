@@ -274,7 +274,7 @@ The performance comparison between encoder-decoder models and decoder-only model
 </p>
 
 > **Warning**
-> We use lm-eval-harnesss to measure the performance. [You can replicate the result yourselves](https://github.com/EleutherAI/lm-evaluation-harness). Therefore, numbers for LLaMA are __**not supposed to be compared**__ with the original paper since we use different method of measurement. As for our LaMini-LM decoder-only models, we modify lm-eval-harness to [add prompt wrapper for each instruction](https://github.com/afaji/lm-evaluation-harness/blob/master/lm_eval/evaluator.py#L222-L227). You can use our [bash script](https://github.com/afaji/lm-evaluation-harness/blob/master/run_loop.sh) to run the evaluation.
+>  __**The reported LLaMA results are not comparable to ours**__, as the LLaMA authors did not provide sufficient details for reproducible evaluation. We use lm-eval-harnesss to measure the performance. [You can replicate the result yourselves](https://github.com/EleutherAI/lm-evaluation-harness). As for our LaMini-LM decoder-only models, we modify lm-eval-harness to [add prompt wrapper for each instruction](https://github.com/afaji/lm-evaluation-harness/blob/master/lm_eval/evaluator.py#L222-L227). You can use our [bash script](https://github.com/afaji/lm-evaluation-harness/blob/master/run_loop.sh) to run the evaluation.
 
 ### Human Evaluation
 
